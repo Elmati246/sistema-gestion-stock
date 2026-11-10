@@ -6,6 +6,10 @@ Aplicación de escritorio desarrollada en Python para administrar productos y co
 
 Este proyecto consiste en un sistema de gestión de inventario con interfaz gráfica, diseñado para facilitar la administración de productos, el seguimiento de existencias y el control de vencimientos.
 
+## Vista previa del sistema
+
+![Sistema de Gestión de Stock](captura-sistema.png)
+
 ## Funcionalidades
 
 - Alta y eliminación de productos.
