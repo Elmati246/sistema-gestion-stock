@@ -30,6 +30,7 @@ Este proyecto consiste en un sistema de gestión de inventario con interfaz grá
 - CustomTkinter
 - JSON
 - Programación orientada a objetos
+- Visual Studio Core (entorno de desarrollo)
 
 ## Instalación
 
