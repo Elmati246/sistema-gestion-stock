@@ -1,6 +1,8 @@
 # Sistema de Gestión de Stock e Inventario
 
-Aplicación de escritorio desarrollada en Python para administrar productos y controlar inventarios.
+**Proyecto académico universitario | Licenciatura en Sistemas de Información Estratégicos – Universidad Nacional de Pilar**
+
+Aplicación de escritorio desarrollada en Python con interfaz gráfica, orientada a la administración de productos y el control de inventarios.
 
 ## Descripción
 
